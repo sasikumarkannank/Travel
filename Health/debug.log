@@ -1,0 +1,9 @@
+[0128/133413.596:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[0128/181042.639:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[0129/143029.624:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[0129/143549.065:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[0129/154731.031:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[0212/122214.446:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0212/182908.436:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0212/185410.462:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0213/122214.557:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports

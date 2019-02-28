@@ -1,0 +1,37 @@
+Browser = Chrome
+BestHospitalURL = https://health.usnews.com/best-hospitals
+HospitalPageHeader = Find the Best Hospital for You
+SearchPageHeader = Hospital Search
+HospName = AdventHealth for Children
+zipcode = 20005
+specialtyValue = IHPCARD
+specialtyfil = Pediatric Cardiology & Heart Surgery
+StateName = California
+StateSuggestion = Washington, DC
+HonText = Honor Roll
+SpecSec = Specialty Rankings
+ChildrenSec = 2018-19 Best Children's Hospitals
+LatestAdvice = Latest Hospital Advice
+HospitalPro = 2018-19 Best Hospitals by Procedure
+SearchSection =Search Best Hospitals
+RankingSection = Health Care Rankings
+HospProfilePageUrl = https://health.usnews.com/best-hospitals/area/mn/mayo-clinic-6610451
+HospitalNameProfile = Mayo Clinic
+RankingSection = Rankings and Recognitions
+FooterRanking = Health Care Rankings
+NearHospitalSec = Nearby Hospitals
+SpecialtyHeader = Adult Specialties Rankings and Ratings
+ChildrenSpecialtyHeader = Children's Specialties Rankings
+
+BestHospitals= https://health.usnews.com/best-hospitals
+HospitalSearchPageHeader= Hospital Search
+HospitalName= MedStar Washington Hospital Center
+ZipCode= 20001
+SpecialitySelected= Cancer
+StateName= Washington, DC
+CityName= Falls Church, VA
+BestDoctors= https://health.usnews.com/doctors/search
+DoctorSpeciality= Anesthesiology
+Specilaity = Internal Medicine
+Affliation= Abilene Regional Medical Center
+

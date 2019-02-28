@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="8" total="13" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="161034" started-at="2019-02-27T14:36:37Z" finished-at="2019-02-27T14:39:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="161034" started-at="2019-02-27T14:36:37Z" finished-at="2019-02-27T14:39:18Z">
+      <class name="com.marlabs.testCase.TC04_BestHospitalsSearchAll">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:com.marlabs.testCase.TC04_BestHospitalsSearchAll@536aaa8d]" name="startTest" is-config="true" duration-ms="8" started-at="2019-02-27T14:38:43Z" finished-at="2019-02-27T14:38:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="BestHospitalsSearch()[pri:0, instance:com.marlabs.testCase.TC04_BestHospitalsSearchAll@536aaa8d]" name="BestHospitalsSearch" duration-ms="30125" started-at="2019-02-27T14:38:43Z" finished-at="2019-02-27T14:39:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BestHospitalsSearch -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.marlabs.testCase.TC04_BestHospitalsSearchAll@536aaa8d]" name="endTest" is-config="true" duration-ms="43" started-at="2019-02-27T14:39:13Z" finished-at="2019-02-27T14:39:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.marlabs.testCase.TC04_BestHospitalsSearchAll -->
+      <class name="com.marlabs.testCase.TC02_HompePageContents">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:com.marlabs.testCase.TC02_HompePageContents@646d64ab]" name="startTest" is-config="true" duration-ms="16" started-at="2019-02-27T14:38:11Z" finished-at="2019-02-27T14:38:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="HomePage()[pri:0, instance:com.marlabs.testCase.TC02_HompePageContents@646d64ab]" name="HomePage" duration-ms="26320" started-at="2019-02-27T14:38:11Z" finished-at="2019-02-27T14:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.marlabs.testCase.TC02_HompePageContents@646d64ab]" name="endTest" is-config="true" duration-ms="63" started-at="2019-02-27T14:38:38Z" finished-at="2019-02-27T14:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.marlabs.testCase.TC02_HompePageContents -->
+      <class name="com.marlabs.testCase.TC06_BestHospitalsSearch">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:com.marlabs.testCase.TC06_BestHospitalsSearch@e320068]" name="startTest" is-config="true" duration-ms="6" started-at="2019-02-27T14:39:13Z" finished-at="2019-02-27T14:39:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="BestHospitalsSearch()[pri:0, instance:com.marlabs.testCase.TC06_BestHospitalsSearch@e320068]" name="BestHospitalsSearch" duration-ms="4889" started-at="2019-02-27T14:39:13Z" finished-at="2019-02-27T14:39:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BestHospitalsSearch -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.marlabs.testCase.TC06_BestHospitalsSearch@e320068]" name="endTest" is-config="true" duration-ms="35" started-at="2019-02-27T14:39:18Z" finished-at="2019-02-27T14:39:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.marlabs.testCase.TC06_BestHospitalsSearch -->
+      <class name="com.marlabs.testCase.TC03_HospitalProfilePageTestCase">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:com.marlabs.testCase.TC03_HospitalProfilePageTestCase@59e5ddf]" name="startTest" is-config="true" duration-ms="5" started-at="2019-02-27T14:38:38Z" finished-at="2019-02-27T14:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="VerifyHospitalProfile()[pri:0, instance:com.marlabs.testCase.TC03_HospitalProfilePageTestCase@59e5ddf]" name="VerifyHospitalProfile" duration-ms="5437" started-at="2019-02-27T14:38:38Z" finished-at="2019-02-27T14:38:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyHospitalProfile -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.marlabs.testCase.TC03_HospitalProfilePageTestCase@59e5ddf]" name="endTest" is-config="true" duration-ms="45" started-at="2019-02-27T14:38:43Z" finished-at="2019-02-27T14:38:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.marlabs.testCase.TC03_HospitalProfilePageTestCase -->
+      <class name="com.marlabs.testCase.TC01_AllSearch">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.marlabs.testCase.TC01_AllSearch@1b68ddbd]" name="init" is-config="true" duration-ms="6832" started-at="2019-02-27T14:36:30Z" finished-at="2019-02-27T14:36:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="startTest()[pri:0, instance:com.marlabs.testCase.TC01_AllSearch@1b68ddbd]" name="startTest" is-config="true" duration-ms="149" started-at="2019-02-27T14:36:37Z" finished-at="2019-02-27T14:36:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="VerifyHomePage()[pri:0, instance:com.marlabs.testCase.TC01_AllSearch@1b68ddbd]" name="VerifyHomePage" duration-ms="92297" started-at="2019-02-27T14:36:37Z" finished-at="2019-02-27T14:38:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyHomePage -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.marlabs.testCase.TC01_AllSearch@1b68ddbd]" name="endTest" is-config="true" duration-ms="1577" started-at="2019-02-27T14:38:10Z" finished-at="2019-02-27T14:38:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="end()[pri:0, instance:com.marlabs.testCase.TC01_AllSearch@1b68ddbd]" name="end" is-config="true" duration-ms="993" started-at="2019-02-27T14:39:18Z" finished-at="2019-02-27T14:39:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- com.marlabs.testCase.TC01_AllSearch -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
